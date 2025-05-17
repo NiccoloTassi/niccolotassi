@@ -1,0 +1,24 @@
+title: "Niccolò Tassi"
+email: "tassi@ugr.es"
+description: >-
+  Academic website of Niccolò Tassi. Research, publications, CV, and more.
+baseurl: ""
+url: "https://niccolotassi.github.io"
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
